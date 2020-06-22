@@ -1,0 +1,6 @@
+has_class_test:
+  finds:
+    - 'div'
+    - 'a'
+  has_class:
+    - 'has-class'

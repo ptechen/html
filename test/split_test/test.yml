@@ -1,0 +1,7 @@
+last_test:
+  finds:
+    - 'ul'
+    - 'li'
+  first: true
+  splits:
+    - { key: 'REPLACE ', index: 1, enable: true }

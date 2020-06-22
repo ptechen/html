@@ -1,0 +1,6 @@
+attr_test:
+  finds:
+    - 'ul'
+    - 'li'
+  eq: 3
+  attr: "title"
