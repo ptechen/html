@@ -1,2 +1,0 @@
-selector_test:
-  selector: 'body > ul > li:nth-child(2)'
