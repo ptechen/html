@@ -4,6 +4,3 @@
 [![Build Status](https://travis-ci.com/ptechen/html.svg?branch=master)](https://travis-ci.com/ptechen/html)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ptechen/html)](https://goreportcard.com/report/github.com/ptechen/html)
 [![codecov](https://codecov.io/gh/ptechen/html/branch/master/graph/badge.svg)](https://codecov.io/gh/ptechen/html)
-[![Coverage Status](https://coveralls.io/repos/github/ptechen/html/badge.svg)](https://coveralls.io/github/ptechen/html)
-
-
